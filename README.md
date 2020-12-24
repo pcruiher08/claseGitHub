@@ -10,6 +10,9 @@ pasos para subir nuestra version a github a un repositorio ya creado
 3 - git push
 
   saludos
+Hola como estas pablinskin, un lol o q?git 
+
 
 
   me gustan las uvas:)
+
